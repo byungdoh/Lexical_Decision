@@ -1,7 +1,7 @@
 // This is a PCIbex implementation of a simple Lexical Decision task for
-// LINGUIST412 @ University of Massachusetts
+// HG4015/7015 @ NTU Singapore
 
-// Brian Dillon, October 2021
+// This was originally created and kindly shared by Brian Dillon (UMass Amherst)
 // CC-BY
 
 PennController.ResetPrefix(null); // Shorten command names (keep this)
